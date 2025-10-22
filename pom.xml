@@ -31,9 +31,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/iAmYinka/bloggify-utils.git</connection>
-        <developerConnection>scm:git:ssh://github.com:iAmYinka/bloggify-utils.git</developerConnection>
-        <url>https://github.com/iAmYinka/bloggify-utils/tree/main</url>
+        <connection>scm:git:git://github.com/sewabiola/bloggify-utils.git</connection>
+        <developerConnection>scm:git:ssh://github.com:sewabiola/bloggify-utils.git</developerConnection>
+        <url>https://github.com/sewabiola/bloggify-utils/tree/main</url>
     </scm>
 
     <properties>
